@@ -1,7 +1,7 @@
 # covid-logistic
 
 
-FORTRAN Code to fit a logistic function to a pandemic curve and compute time lag between infection and death
+FORTRAN Code to fit a logistic function to a pandemic curve and compute the time lag between infection and death
 
 Programs used to produce results in the paper ‘COVID-19 infection-to-death lag and lockdown-effect lag in Italy and Spain’ by Jorge Buescu, Henrique M. Oliveira and Carlos A. Pires. 
 
